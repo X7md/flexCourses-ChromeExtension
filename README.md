@@ -21,9 +21,8 @@ Hiding progressBarAndRate Extension!
     <img src="https://github.com/X7md/flexCourses-ChromeExtension/blob/main/add-extension.png?raw=true">
     </li>
     <br/>
-    ثم  أختار مجلد <code dir="ltr">./Extension</code> 
-    اللي حملته 
-    <a herf="https://github.com/X7md/flexCourses-ChromeExtension/releases/tag/0.1">من هنا</a>
+    ثم  أختار مجلد <code dir="ltr">./Extension</code> اللي حملته 
+    <a href="https://github.com/X7md/flexCourses-ChromeExtension/releases/tag/0.1">من هنا</a>
   </ul>
 </div>
 
